@@ -86,7 +86,7 @@ Include = /etc/pacman.d/mirrorlist
 #SigLevel = Never
 #Server = https://raw.githubusercontent.com/riasuos/riasuos_repo/master/$arch
 
-#[ctlos_repo]
+#[riasuos_repo]
 #SigLevel = Optional TrustAll
 # SigLevel = Never
 #Server = file:///home/st/files/riasuos/riasu_repo/$arch
