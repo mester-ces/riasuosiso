@@ -26,7 +26,7 @@ function editOrCreateConfigFiles() {
     echo "LC_COLLATE=C" >> /etc/locale.conf
 
     # Vconsole
-    echo "KEYMAP=ru" > /etc/vconsole.conf
+    echo "KEYMAP=us" > /etc/vconsole.conf
     echo "FONT=cyr-sun16" >> /etc/vconsole.conf
 
     # Hostname
