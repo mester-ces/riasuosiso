@@ -89,4 +89,4 @@ Include = /etc/pacman.d/mirrorlist
 #[riasuos_repo]
 #SigLevel = Optional TrustAll
 # SigLevel = Never
-#Server = file:///home/st/files/riasuos/riasu_repo/$arch
+#Server = file:///home/zatiel/files/riasuos/riasu_repo/$arch
